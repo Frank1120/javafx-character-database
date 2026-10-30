@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="658.0" prefWidth="921.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.holodatabasegui.OshiListsController">
+   <children>
+      <Label alignment="CENTER" layoutX="116.0" prefHeight="53.0" prefWidth="690.0" text="Oshi List Manager">
+         <font>
+            <Font size="26.0" />
+         </font>
+      </Label>
+      <TableView fx:id="myOshiListTableView" layoutX="460.0" layoutY="60.0" prefHeight="532.0" prefWidth="496.0">
+         <columns>
+            <TableColumn fx:id="nameColumn" prefWidth="170.0" text="Talent Name" />
+            <TableColumn fx:id="branchColumn" prefWidth="163.0" text="Branch" />
+            <TableColumn fx:id="generationColumn" prefWidth="162.0" text="Generation" />
+         </columns>
+      </TableView>
+      <Button fx:id="addTalentButton" layoutX="751.0" layoutY="607.0" mnemonicParsing="false" onAction="#addTalent" prefHeight="31.0" prefWidth="78.0" text="Add Talent" />
+      <Button fx:id="removeTalentButton" layoutX="844.0" layoutY="607.0" mnemonicParsing="false" onAction="#removeTalent" prefHeight="31.0" prefWidth="98.0" text="Remove Talent" />
+      <ListView fx:id="myOshiListListView" layoutX="4.0" layoutY="63.0" prefHeight="532.0" prefWidth="432.0" />
+      <Button layoutX="14.0" layoutY="607.0" mnemonicParsing="false" onAction="#createList" prefHeight="31.0" prefWidth="78.0" text="Add List" />
+      <Button layoutX="102.0" layoutY="607.0" mnemonicParsing="false" onAction="#removeList" prefHeight="31.0" prefWidth="86.0" text="Remove List" />
+      <Button layoutX="408.0" layoutY="607.0" mnemonicParsing="false" onAction="#switchToHome" prefHeight="31.0" prefWidth="78.0" text="Return" />
+   </children>
+</AnchorPane>

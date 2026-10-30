@@ -1,0 +1,74 @@
+JP: Gen 0: ときの・そら: active: 160: 2017-09-07: 05-15: そらとものみんなー！元気ー？「タレント名前」です！
+JP: Gen 0: ろぼ子さん: active: 154: 2018-03-04: 05-23: はろーぼー！「タレント名前」だよー
+JP: Gen 0: AZKi: active: 158: 2018-11-15: 07-01: Virtual Diva 「タレント名前」 仮想世界の歌姫！音楽と歌うことが大好き！
+JP: Gen 0: さくらみこ: active: 152: 2018-08-01: 03-05: にゃっはろ～！エリート巫女アイドルの「タレント名前」ですっ！
+JP: Gen 0: 星街すいせい: active: 160: 2018-03-22: 03-22: 彗星のごとく現れたスターの原石！バーチャルアイドルの「タレント名前」でーす！
+JP: Gen 1: アキ・ローゼンタール: active: 165: 2018-06-01: 02-17: アローナ！癒し系ハーフエルフお姉さん、「タレント名前」と一緒に乾杯しよ？
+JP: Gen 1: 赤井はあと: active: 154: 2018-06-02: 08-10: こんるーじゅ！「タレント名前」よ！
+JP: Gen 1: 白上フブキ: active: 155: 2018-06-01: 10-05: こんこんきーつね！「タレント名前」です！
+JP: Gen 1: 夏色まつり: active: 152: 2018-06-01: 07-22: わっしょ～い！ホロライブの清楚担当みんなのアイドル「タレント名前」です！
+JP: Gen 2: 百鬼あやめ: active: 152: 2018-09-03: 12-13: 人間様たちこんなきりー！やほ～～！
+JP: Gen 2: 癒月ちょこ: active: 165: 2018-09-04: 02-14: Good evening! my cute students. ちょっこーん！！
+JP: Gen 2: 大空スバル: active: 154: 2018-09-16: 07-02: ちわーす！ホロライブ[?]期生「タレント名前」！！
+JP: Gen 2: 湊あくあ: alum: 148: 2018-08-08: 12-01: 皆さんどうもこんあくあー！「タレント名前」です！
+JP: Gen 2: 紫咲シオン: alum: 145: 2018-08-17: 12-08: こんしお～、「タレント名前」だよ
+JP: GAMERS: 大神ミオ: active: 160: 2018-12-07: 08-20: こんばんみぉーん！「タレント名前」だよ～！
+JP: GAMERS: 猫又おかゆ: active: 152: 2019-04-06: 02-22: もぐもぐ～「タレント名前」～！
+JP: GAMERS: 戌神ころね: active: 156: 2019-04-13: 10-01: ぉぁよ～！ゆびゆび～
+JP: Gen 3: 兎田ぺこら: active: 153: 2019-07-17: 01-12: こんぺこ！こんぺこ！こんぺこー！「タレント名前」ぺこ～！どうも〜どうも〜
+JP: Gen 3: 不知火フレア: active: 158: 2019-08-07: 04-02: こんぬいー！ホロライブ[?]期生の「タレント名前」だよ！
+JP: Gen 3: 白銀ノエル: active: 158: 2019-08-08: 11-24: こんまっする～！鉄の胃袋大魔神！白銀聖騎士団の団長、「タレント名前」です！
+JP: Gen 3: 宝鐘マリン: active: 150: 2019-08-11: 07-30: Ahoy! 宝鐘海賊団船長！「タレント名前」です～！
+JP: Gen 4: 天音かなた: active: 149: 2019-12-27: 04-22: へい！みんなこん「タレント名前」～！
+JP: Gen 4: 角巻わため: active: 151: 2019-12-29: 06-06: こんばんドドド～！
+JP: Gen 4: 常闇トワ: active: 150: 2020-01-03: 08-08: こんやっぴーホロライブ[?]期生「タレント名前」様です
+JP: Gen 4: 姫森ルーナ: active: 140: 2020-01-04: 10-10: みんな～、おりゅ～？
+JP: Gen 4: 桐生ココ: alum: 180: 2019-12-28: 06-17: おーはようございまーす皆さーん！起きて起きて起きて―！
+ID: Gen 1: Ayunda Risu: active: 153: 2020-04-10: 01-15: Hewwrroo everyone ~!” “Purupuru ganbari (talent name) ~!
+ID: Gen 1: Moona Hoshinova: active: 165: 2020-04-11: 02-15: Moon Moon~ (talent name) Dayo!
+ID: Gen 1: Airani Iofifteen: active: 150: 2020-04-12: 07-15: IOFORIA~! OBISA! スラマッパギ！あなたの愛しの宇宙人、ホロライブ[]の「タレント名前」だよ！
+JP: Gen 5: 雪花ラミィ: active: 158: 2020-08-12: 11-15: おはらみです、こんらみです
+JP: Gen 5: 桃鈴ねね: active: 150: 2020-08-13: 03-02: こんねね～！ホロライブ[?]期生、アイドルVTuberの「タレント名前」で～す！
+JP: Gen 5: 獅白ぼたん: active: 166: 2020-08-14: 09-08: ららーいおん!
+JP: Gen 5: 尾丸ポルカ: active: 153: 2020-08-16: 01-30: 「タレント名前」おるか？おるよ～！
+EN: Gen 1 (Myth): Mori Calliope: active: 167: 2020-09-12: 04-04: Dead Beats, listen up! Your (talent name) been working hard for you!
+EN: Gen 1 (Myth): Takanashi Kiara: active: 165: 2020-09-12: 07-06: Kikkeriki!!! Welcome to KFP, are you here to order or to apply for a job?
+EN: Gen 1 (Myth): Ninomae Ina'nis: active: 157: 2020-09-13: 05-20: Good morning, afternoon, evening! Hope you're having a WAHnderful day!
+EN: Gen 1 (Myth): Gawr Gura: alum: 141: 2020-09-13: 06-20: Domo!! Sa-me desu!!
+EN: Gen 1 (Myth): Amelia Watson: affiliate: 150: 2020-09-13: 01-06: Test test, Hello~ (talent name) #1 Detective at your service!
+ID: Gen 2: Kureji Ollie: active: 160: 2020-12-04: 10-13: ZOMBANWA!! SUPER KAWAII ZOMBIE IDOL, KU KU KU (talent name) DESU~!!
+ID: Gen 2: Anya Melfissa: active: 147: 2020-12-05: 03-12: Good day! This is (talent name) from hololive (branch) (#) Generation.
+ID: Gen 2: Pavolia Reine: active: 171: 2020-12-06: 09-09: Perhatian, sang putri merak yang tertiup angin, aku (talent name) dari hololive (branch).
+EN: Gen 2 (Council)&(Promise): Ceres Fauna: alum: 164: 2021-08-22: 03-21: Konfauna~ Your gaming idol kirin (talent name) is here!
+EN: Gen 2 (Council)&(Promise): Ouro Kronii: active: 168: 2021-08-22: 03-14: Kroniichiwa! It's me, perfection. Also synonymous for (talent name)!
+EN: Gen 2 (Council)&(Promise): Nanashi Mumei: alum: 156: 2021-08-22: 08-04: Oh hi! Hoo’s this? (talent name)!
+EN: Gen 2 (Council)&(Promise): Hakos Baelz: active: 149: 2021-08-22: 02-29: WAZZUP!! It's your worldwide Rat Idol --- (talent name)!
+EN: Gen 2 (Council): Tsukumo Sana: alum: 169: 2021-08-22: 06-10: Sananara!
+EN: Gen 2 (Promise): IRyS: active: 166: 2021-07-11: 03-07: HiRyS, it’s (talent name)! Your seiso nephilim here to fill the world with hopium!
+JP: Gen 6 (holoX): ラプラス・ダークネス: active: 139: 2021-11-26: 05-25: 貴様ら、刮目せよ！！
+JP: Gen 6 (holoX): 鷹嶺ルイ: active: 161: 2021-11-27: 06-11: 皆さんまったかね～！？
+JP: Gen 6 (holoX): 博衣こより: active: 153: 2021-11-28: 03-15: holoXの～頭脳！「タレント名前」だよ～！
+JP: Gen 6 (holoX): 沙花叉クロヱ: affiliate: 148: 2021-11-29: 05-18: ばっくばっくばく～ん
+JP: Gen 6 (holoX): 風真いろは: active: 152: 2021-11-30: 06-18: holoXの用心棒、侍の「タレント名前」でござる
+ID: Gen 3: Vestia Zeta: active: 155: 2022-03-25: 11-07: A a a! Mission Sutaato! Aku (talent name) dari holo(branch) gen (#)!
+ID: Gen 3: Kaela Kovalskia: active: 173: 2022-03-26: 08-30: Aku (talent name), dari holo(branch) gen (#)!
+ID: Gen 3: Kobo Kanaeru: active: 150: 2022-03-27: 12-12: Bokobokobo (talent name) at your service!
+EN: Gen 3 (Advent): Shiori Novella: active: 163: 2023-07-30: 05-02: Shiori-n!
+EN: Gen 3 (Advent): Nerissa Ravencroft: active: 170: 2023-07-31: 11-21: Hiya darlings! This is Hololive (gen) devilish diva, the one and only (talent name)!
+EN: Gen 3 (Advent): Koseki Bijou: active: 140: 2023-07-30: 04-14: Bon Bijou! I am (talent name), sparkling gem of Hololive (gen)!
+EN: Gen 3 (Advent): Fuwawa Abyssgard: active: 150: 2023-07-31: 02-01: I’m not a chihuahua, I’m (talent name)! Together we’re... (talent name)!
+EN: Gen 3 (Advent): Mococo Abyssgard: active: 150: 2023-07-31: 02-02: I’m not (talent name), I’m (talent name)! Together we’re... (talent name)!
+JP: ReGLOSS: 火威青: active: 162: 2023-09-09: 02-27: 可愛い女の子かと思った？じゃじゃーん！「タレント名前」でした。hololive「期生名前」のボーイッシュ担当、「タレント名前」です！
+JP: ReGLOSS: 音乃瀬奏: active: 153: 2023-09-09: 04-20: ドレミファソラシド～！hololive 「期生名前」所属、「期生名前」の音楽家の卵！「タレント名前」で～～～す！
+JP: ReGLOSS: 一条莉々華: active: 162: 2023-09-09: 05-12: かわいい！ポジティブ！ジーニアス！hololive 「期生名前」の「タレント名前」だよ～！
+JP: ReGLOSS: 儒烏風亭らでん: active: 159: 2023-09-10: 02-04: 寄ってらっしゃい見てらっしゃい hololive 「期生名前」は「期生名前」の賑やかしネタ枠担当、儒烏風亭一門は前座見習い！「タレント名前」でございます！
+JP: ReGLOSS: 轟はじめ: active: 155: 2023-09-10: 06-07: ぶんぶんぶーん！押忍！hololive 「期生名前」の番長！「タレント名前」！
+EN: Gen 4 (Justice): Elizabeth Rose Bloodflame: active: 169: 2024-06-22: 04-25: OH- HOHOHOHO~! Roses are red, The fire of my heart is blue, Also known as the The Scarlet Queen, Harbinger of Order, Leader of -Justice- I am (talent name)!
+EN: Gen 4 (Justice): Gigi Murin: active: 162: 2024-06-22: 10-28: Gi Murin!
+EN: Gen 4 (Justice): Cecilia Immergreen: active: 167: 2024-06-23: 03-16: Koncelia!
+EN: Gen 4 (Justice): Raora Panthera: active: 157: 2024-06-23: 05-11: Ciaora!
+JP: FLOW GLOW: 響咲リオナ: active: 156: 2024-11-09: 05-29: やりたいように、私は私らしく生き抜いていくんです！
+JP: FLOW GLOW: 虎金妃笑虎: active: 161: 2024-11-09: 08-07: 笑えない時は、「タレント名前」たんの名を呼ぶがいいさ
+JP: FLOW GLOW: 水宮枢: active: 148: 2024-11-09: 06-16: しゅぴしゅわー 「タレント名前」の充電たりてる？
+JP: FLOW GLOW: 輪堂千速: active: 158: 2024-11-09: 07-08: ねえ、いっしょに向こう側の景色を見に行かない？
+JP: FLOW GLOW: 綺々羅々ヴィヴィ: active: 168: 2024-11-09: 11-11: ちょい待ってぇな、あんたんこと変えたるから！

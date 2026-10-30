@@ -1,0 +1,74 @@
+JP: Gen 0: Tokino Sora: active: 160: 2017-09-07: 05-15: Hey, Sora-tomo! How are you all doing? It's me, (talent name)!
+JP: Gen 0: Robocosan: active: 154: 2018-03-04: 05-23: Hellobo! Roboco here!
+JP: Gen 0: AZKi: active: 158: 2018-11-15: 07-01: I'm the Virtual Diva (talent name)! I love music and singing!
+JP: Gen 0: Sakura Miko: active: 152: 2018-08-01: 03-05: Nya-hello~! I'm (talent name), an elite shrine maiden-idol!
+JP: Gen 0: Hoshimachi Suisei: active: 160: 2018-03-22: 03-22: A shooting star that appeared from diamonds in the rough; I'm the virtual idol (talent name)!
+JP: Gen 1: Aki Rosenthal: active: 165: 2018-06-01: 02-17: Alona, everyone! This is (talent name) a.k.a. (talent name)!
+JP: Gen 1: Akai Haato: active: 154: 2018-06-02: 08-10: Welcome to your rouge awakening! This is (talent name)!
+JP: Gen 1: Shirakami Fubuki: active: 155: 2018-06-01: 10-05: Good foxy day! I'm (talent name)!
+JP: Gen 1: Natsuiro Matsuri: active: 152: 2018-06-01: 07-22: Wasshoi! hololive's symbol of purity and everyone's idol, (talent name) here!
+JP: Gen 2: Nakiri Ayame: active: 152: 2018-09-03: 12-13: Greetings, Humans! Yoohoo!
+JP: Gen 2: Yuzuki Choco: active: 165: 2018-09-04: 02-14: Good evening, my cute students! Choc-on!
+JP: Gen 2: Oozora Subaru: active: 154: 2018-09-16: 07-02: Sup! I'm (talent name) from hololive (#) Generation!
+JP: Gen 2: Minato Aqua: alum: 148: 2018-08-08: 12-01: Kon-aqua to all! I'm (talent name)!
+JP: Gen 2: Murasaki Shion: alum: 145: 2018-08-17: 12-08: Hellshio! (talent name) here!
+JP: GAMERS: Ookami Mio: active: 160: 2018-12-07: 08-20: Hellooowl! It is (talent name)!
+JP: GAMERS: Nekomata Okayu: active: 152: 2019-04-06: 02-22: Om, nom, (talent name)!
+JP: GAMERS: Inugami Korone: active: 156: 2019-04-13: 10-01: Ello! Fingers! Give me your fingers!
+JP: Gen 3: Usada Pekora: active: 153: 2019-07-17: 01-12: Hiya-peko! Hiya-peko! Hiya-pekooo! I'm (talent name), peko!
+JP: Gen 3: Shiranui Flare: active: 158: 2019-08-07: 04-02: Noon-nui! This is hololive (3) Gen's (talent name)!
+JP: Gen 3: Shirogane Noel: active: 158: 2019-08-08: 11-24: All hustle, all muscle! (talent name) here!
+JP: Gen 3: Houshou Marine: active: 150: 2019-08-11: 07-30: Ahoy! Captain of the (talent name) Pirates, (talent name) here!
+JP: Gen 4: Amane Kanata: active: 149: 2019-12-27: 04-22: Hey, you all came, ta!
+JP: Gen 4: Tsunomaki Watame: active: 151: 2019-12-29: 06-06: Hoof, hoof, helloof!
+JP: Gen 4: Tokoyami Towa: active: 150: 2020-01-03: 08-08: Suppies! 'Tis I, (talent name), from hololive (#) Generation!
+JP: Gen 4: Himemori Luna: active: 140: 2020-01-04: 10-10: Is evewyone heeere?
+JP: Gen 4: Kiryu Coco: alum: 180: 2019-12-28: 06-17: Good morning, everyone! Wake up, wake up, wake up!
+ID: Gen 1: Ayunda Risu: active: 153: 2020-04-10: 01-15: Hewwrroo everyone ~!” “Purupuru ganbari (talent name) ~!
+ID: Gen 1: Moona Hoshinova: active: 165: 2020-04-11: 02-15: Moon Moon~ (talent name) Dayo!
+ID: Gen 1: Airani Iofifteen: active: 150: 2020-04-12: 07-15: IOFORIA~! OBISA!” “Pagi semua! I’m your beloved smart alien (talent name) from hololive (branch), nice to meet you!
+JP: Gen 5: Yukihana Lamy: active: 158: 2020-08-12: 11-15: Lamyoohoo!
+JP: Gen 5: Momosuzu Nene: active: 150: 2020-08-13: 03-02: Kon-Nene~! hololive (#) Generation, (talent name) the idol VTuber!
+JP: Gen 5: Shishiro Botan: active: 166: 2020-08-14: 09-08: La-lion!
+JP: Gen 5: Omaru Polka: active: 153: 2020-08-16: 01-30: Is (talent name) on the dot? Yes, she is!
+EN: Gen 1 (Myth): Mori Calliope: active: 167: 2020-09-12: 04-04: Dead Beats, listen up! Your (talent name) been working hard for you!
+EN: Gen 1 (Myth): Takanashi Kiara: active: 165: 2020-09-12: 07-06: Kikkeriki!!! Welcome to KFP, are you here to order or to apply for a job?
+EN: Gen 1 (Myth): Ninomae Ina'nis: active: 157: 2020-09-13: 05-20: Good morning, afternoon, evening! Hope you're having a WAHnderful day!
+EN: Gen 1 (Myth): Gawr Gura: alum: 141: 2020-09-13: 06-20: Domo!! Sa-me desu!!
+EN: Gen 1 (Myth): Amelia Watson: affiliate: 150: 2020-09-13: 01-06: Test test, Hello~ (talent name) #1 Detective at your service!
+ID: Gen 2: Kureji Ollie: active: 160: 2020-12-04: 10-13: ZOMBANWA!! SUPER KAWAII ZOMBIE IDOL, KU KU KU (talent name) DESU~!!
+ID: Gen 2: Anya Melfissa: active: 147: 2020-12-05: 03-12: Good day! This is (talent name) from hololive (branch) (#) Generation.
+ID: Gen 2: Pavolia Reine: active: 171: 2020-12-06: 09-09: Perhatian, sang putri merak yang tertiup angin, aku (talent name) dari hololive (branch).
+EN: Gen 2 (Council)&(Promise): Ceres Fauna: alum: 164: 2021-08-22: 03-21: Konfauna~ Your gaming idol kirin (talent name) is here!
+EN: Gen 2 (Council)&(Promise): Ouro Kronii: active: 168: 2021-08-22: 03-14: Kroniichiwa! It's me, perfection. Also synonymous for (talent name)!
+EN: Gen 2 (Council)&(Promise): Nanashi Mumei: alum: 156: 2021-08-22: 08-04: Oh hi! Hoo’s this? (talent name)!
+EN: Gen 2 (Council)&(Promise): Hakos Baelz: active: 149: 2021-08-22: 02-29: WAZZUP!! It's your worldwide Rat Idol --- (talent name)!
+EN: Gen 2 (Council): Tsukumo Sana: alum: 169: 2021-08-22: 06-10: Sananara!
+EN: Gen 2 (Promise): IRyS: active: 166: 2021-07-11: 03-07: HiRyS, it’s (talent name)! Your seiso nephilim here to fill the world with hopium!
+JP: Gen 6 (holoX): La+ Darkness: active: 139: 2021-11-26: 05-25: See me, hear me, all of you!
+JP: Gen 6 (holoX): Takane Lui: active: 161: 2021-11-27: 06-11: Did I Luive you waiting!?
+JP: Gen 6 (holoX): Hakui Koyori: active: 153: 2021-11-28: 03-15: The brain of (gen)! My name is (talent name)!
+JP: Gen 6 (holoX): Sakamata Chloe: affiliate: 148: 2021-11-29: 05-18: Chomp, chomp, chooomp!
+JP: Gen 6 (holoX): Kazama Iroha: active: 152: 2021-11-30: 06-18: Secret Society holoX’s insurance policy, (talent name) here, I daresay!
+ID: Gen 3: Vestia Zeta: active: 155: 2022-03-25: 11-07: A a a! Mission Sutaato! Aku (talent name) dari holo(branch) gen (#)!
+ID: Gen 3: Kaela Kovalskia: active: 173: 2022-03-26: 08-30: Aku (talent name), dari holo(branch) gen (#)!
+ID: Gen 3: Kobo Kanaeru: active: 150: 2022-03-27: 12-12: Bokobokobo (talent name) at your service!
+EN: Gen 3 (Advent): Shiori Novella: active: 163: 2023-07-30: 05-02: Shiori-n!
+EN: Gen 3 (Advent): Nerissa Ravencroft: active: 170: 2023-07-31: 11-21: Hiya darlings! This is Hololive (gen) devilish diva, the one and only (talent name)!
+EN: Gen 3 (Advent): Koseki Bijou: active: 140: 2023-07-30: 04-14: Bon Bijou! I am (talent name), sparkling gem of Hololive (gen)!
+EN: Gen 3 (Advent): Fuwawa Abyssgard: active: 150: 2023-07-31: 02-01: I’m not a chihuahua, I’m (talent name)! Together we’re... (talent name)!
+EN: Gen 3 (Advent): Mococo Abyssgard: active: 150: 2023-07-31: 02-02: I’m not (talent name), I’m (talent name)! Together we’re... (talent name)!
+JP: ReGLOSS: Hiodoshi Ao: active: 162: 2023-09-09: 02-27: Did you mistake me for some cutesy girl? Too bad! It was me, (talent name)! From hololive (branch), I'm (gen) resident tomboy, (talent name)!
+JP: ReGLOSS: Otonose Kanade: active: 153: 2023-09-09: 04-20: Do-Re-Mi-Fa-So-La-Si-Do! From hololive (branch), I am (gen) aspiring musician, (talent name)!
+JP: ReGLOSS: Ichijou Ririka: active: 162: 2023-09-09: 05-12: Cute! Positive! Genius! From hololive (branch), I am (gen) (talent name)!
+JP: ReGLOSS: Juufuutei Raden: active: 159: 2023-09-10: 02-04: Come one, come all! From hololive (branch), I am (gen) hype squad and jokester, and the (talent name) Group's curtain raiser and apprentice, (talent name)!
+JP: ReGLOSS: Todoroki Hajime: active: 155: 2023-09-10: 06-07: Vroom, vroom, vroom! From hololive (branch), I am (gen) Nresident badass, (talent name)!
+EN: Gen 4 (Justice): Elizabeth Rose Bloodflame: active: 169: 2024-06-22: 04-25: OH- HOHOHOHO~! Roses are red, The fire of my heart is blue, Also known as the The Scarlet Queen, Harbinger of Order, Leader of -Justice- I am (talent name)!
+EN: Gen 4 (Justice): Gigi Murin: active: 162: 2024-06-22: 10-28: Gi Murin!
+EN: Gen 4 (Justice): Cecilia Immergreen: active: 167: 2024-06-23: 03-16: Koncelia!
+EN: Gen 4 (Justice): Raora Panthera: active: 157: 2024-06-23: 05-11: Ciaora!
+JP: FLOW GLOW: Isaki Riona: active: 156: 2024-11-09: 05-29: I'll do what I like and live how I want to!
+JP: FLOW GLOW: Koganei Niko: active: 161: 2024-11-09: 08-07: If you can't bring yourself to a smile, just say my name!
+JP: FLOW GLOW: Mizumiya Su: active: 148: 2024-11-09: 06-16: Is your (talent name)-charge at 100%?
+JP: FLOW GLOW: Rindo Chihaya: active: 158: 2024-11-09: 07-08: Won't you come with me to chase greater heights and see the scenery from high above?
+JP: FLOW GLOW: Kikirara Vivi: active: 168: 2024-11-09: 11-11: Hol'up, 'cus you're in for a transformation!

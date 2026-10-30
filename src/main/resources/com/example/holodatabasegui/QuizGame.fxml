@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="489.0" prefWidth="826.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.holodatabasegui.QuizGameController">
+   <children>
+      <VBox fx:id="myVBox" layoutX="42.0" layoutY="32.0" prefHeight="335.0" prefWidth="741.0" spacing="10.0">
+         <children>
+            <Label fx:id="phraseLabel" prefHeight="84.0" prefWidth="744.0" wrapText="true">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <TextField fx:id="answerTextField" prefHeight="48.0" prefWidth="741.0" promptText="Enter your answer, ensure you enter either their full first or last name. " />
+            <Label fx:id="correctOrIncorrectLabel" alignment="CENTER" prefHeight="36.0" prefWidth="752.0" />
+            <Label fx:id="answerLabel" alignment="CENTER" prefHeight="36.0" prefWidth="753.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+         </children></VBox>
+      <Label fx:id="scoreLabel" layoutX="614.0" layoutY="367.0" prefHeight="30.0" prefWidth="159.0" text="Score: ">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Button fx:id="submitButton" layoutX="265.0" layoutY="377.0" mnemonicParsing="false" onAction="#handleSubmitAnswer" prefHeight="47.0" prefWidth="101.0" text="Submit" />
+      <Button fx:id="nextButton" layoutX="452.0" layoutY="377.0" mnemonicParsing="false" onAction="#nextQuestion" prefHeight="47.0" prefWidth="101.0" text="Next" />
+      <Button fx:id="playAgainButton" layoutX="78.0" layoutY="377.0" mnemonicParsing="false" onAction="#handlePlayQuiz" prefHeight="47.0" prefWidth="101.0" text="Play Again" />
+      <Button layoutX="20.0" layoutY="440.0" prefWidth="100.0" text="Return" onAction="#switchToHome" mnemonicParsing="false" />
+   </children>
+</AnchorPane>
