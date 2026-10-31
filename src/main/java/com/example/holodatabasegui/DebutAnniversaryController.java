@@ -1,15 +1,12 @@
 package com.example.holodatabasegui;
 
 import javafx.fxml.FXML;
-import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 
 import java.io.IOException;
-import java.net.URL;
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.ResourceBundle;
 
 public class DebutAnniversaryController {
     private SceneManager sceneManager;

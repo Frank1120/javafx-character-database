@@ -1,22 +1,12 @@
 package com.example.holodatabasegui;
 
-import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
-import javafx.event.ActionEvent;
-import javafx.fxml.FXML;
-import javafx.scene.Scene;
 import javafx.scene.control.*;
-import javafx.scene.layout.AnchorPane;
-import javafx.stage.Stage;
-
 import java.io.IOException;
 import java.util.Optional;
 
 public class HelloController {
 
     private SceneManager sceneManager;
-    private Library library;
-
     public void switchToAllTalents() throws IOException{
         sceneManager.switchToAllTalents();
     }
@@ -54,7 +44,6 @@ public class HelloController {
     }
 
     public void setLibrary(Library library){
-        this.library = library;
     }
 
 

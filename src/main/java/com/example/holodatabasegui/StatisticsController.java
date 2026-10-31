@@ -1,14 +1,11 @@
 package com.example.holodatabasegui;
 
 import javafx.fxml.FXML;
-import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
 
 import java.io.IOException;
-import java.net.URL;
 import java.util.Map;
-import java.util.ResourceBundle;
 
 public class StatisticsController {
     private SceneManager sceneManager;
