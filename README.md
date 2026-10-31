@@ -35,7 +35,7 @@ JavaFX desktop application for browsing, searching, and managing Hololive talent
 
 ## How to Run
 - Download or clone repository.
-- Open the project's root directory in a Java IDE.
+- Open the project's root directory in a Java IDE (Must be on Java version 21).
 -  Run the application using the Maven Wrapper.
 
 Windows:
